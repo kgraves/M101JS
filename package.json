@@ -1,0 +1,28 @@
+{
+  "name": "M101JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgraves/M101JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kgraves/M101JS/issues"
+  },
+  "homepage": "https://github.com/kgraves/M101JS#readme",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "consolidate": "0.13.x",
+    "crypto": "0.0.3",
+    "express": "4.13.3",
+    "mongodb": "2.1.x",
+    "nunjucks": "2.2.x"
+  }
+}
